@@ -1,0 +1,23 @@
+{
+  "name": "CronJobLinux",
+  "version": "1.0.0",
+  "description": "Creating cron job(node script) in Linux",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gopibabus/CronJobLinux.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gopibabus/CronJobLinux/issues"
+  },
+  "homepage": "https://github.com/gopibabus/CronJobLinux#readme",
+  "dependencies": {
+    "fs": "0.0.1-security"
+  }
+}
