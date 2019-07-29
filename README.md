@@ -34,7 +34,7 @@ crontab -e
 
 (OR)
 
-### We can directly give task in crontab instead of creatinf app.sh file
+### We can directly give task in crontab instead of creating app.sh file
 
 ```
 # ┌───────────── minute (0 - 59)
